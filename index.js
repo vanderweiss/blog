@@ -1,5 +1,5 @@
 const core = require("./src/core");
 
-const port = 3000;
+const port = 80;
 
-core.startServer(port);
+core.start(port);
