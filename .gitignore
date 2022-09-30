@@ -1,7 +1,6 @@
 .git
 
-cert.pem
-key.pem
+vanderweiss_com*
 
 node_modules
 package-lock.json
